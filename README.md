@@ -1,4 +1,4 @@
-Employee Attrition Data Analysis
+*Employee Attrition Data Analysis*
 
 Overview
 This project analyzes employee attrition data to understand factors influencing employee retention and departure from the company. 
